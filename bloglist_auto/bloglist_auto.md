@@ -18,7 +18,7 @@
 | Anukuga | https://23w-gbac.github.io/Anukuga/ | i have Choosen topics related to health which can be highly beneficial as Health is a universal concern that impacts everyone, regardless of age, gender, or background. Writing about health ensures relevance to a broad audience, contributing to knowledge about maintaining a healthy lifestyle and preventing diseases |
 | udehadaeze |  |  |
 | NDYawt | https://23w-gbac.github.io/NDYawt/ |  |
-| safrinfaizz |  |  |
+| safrinfaizz |https://23w-gbac.github.io/safrinfaizz/  |  |
 | Maryem-Mohamed |  |  |
 | gansah-s-blog |  |  |
 | Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ | Diving into the challenges of data quality in women's healthcare, exploring real-life stories that highlight the critical need for accurate data collection and its impact on diagnoses, treatment, and pharmaceutical advancements. Shedding light on the persistent issues of gender bias in healthcare and advocating for the importance of quality data. |
